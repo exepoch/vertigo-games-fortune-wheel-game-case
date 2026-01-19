@@ -106,3 +106,7 @@ In a production scenario, this layer can be replaced directly with a real backen
   <img src="Media/Screenshots/wheel_4_3.jpg" width="32%" />
   </p>
 
+  ### 🎥 Gameplay Video & Apk
+🔗 [Download APK & Watch Gameplay Video](https://github.com/exepoch/vertigo-games-fortune-wheel-game-case/releases/tag/v1.0)
+
+
